@@ -1,0 +1,1 @@
+An application that allows users to convert currencies using real-time exchange rates. This was my first attempt at incorporating an API with a project, and it helped me understand how APIs work. I used a combination of help from my peers, YouTube videos, and TikToks to help me understand how APIs work and how to include them in a project.
